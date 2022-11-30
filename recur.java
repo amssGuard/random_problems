@@ -4,8 +4,7 @@ public class recur{
 	if(n>0) {
 		System.out.print("\t"+n);
 		recure(n-5);
-		System.out.print("\t"+n);
-	} else
+	}
 		System.out.print("\t"+n);
 	return 0;
 	}
