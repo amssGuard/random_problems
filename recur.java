@@ -5,9 +5,8 @@ public class recur{
 		System.out.print("\t"+n);
 		recure(n-5);
 		System.out.print("\t"+n);
-	} else {
+	} else
 		System.out.print("\t"+n);
-	}
 	return 0;
 	}
 	public static void main(String[]args) {
