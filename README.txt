@@ -10,3 +10,11 @@ a[0]=n a[i+1]=a[i]-1 until a[i]>0 . after that a[i+1]=a[i]+5 until a[i]=N
 3. Moving a 2D game sprite in a platformer type game.
 
 4. proceeding to the next level.
+
+5. James Sylvester Hadamard matrix states that the sizes are powers of 2.
+   And the matrices are symmetric.
+   the smallest matrix is of 1x1 which contains 
+    1
+   the 2x2 is made by copy the 1x1 matrix 4 times and negating the bottom right corner
+    1  1
+    1 -1
